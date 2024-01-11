@@ -32,9 +32,10 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85118629</meta>
 		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A man navigates a world torn apart by bouts of spontaneous, unexplained possessions.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Chandler is on trial for rape and murder in a world where such acts have become commonplace due to spontaeous, unexplained possessions. His trial is deemed necessary as the location where his acts were carried out was assumed to be immune to possessions. Chandler’s trial ends with his exile and a brand on his forehead. His experiences after the trial take him far from his home and put him on the trail of the source of these possessions.&lt;/p&gt;
+			&lt;p&gt;First appearing serialized in &lt;i&gt;Galaxy Science Fiction&lt;/i&gt; in two parts, &lt;a href="https://standardebooks.org/ebooks/frederik-pohl"&gt;Frederik Pohl’s&lt;/a&gt; &lt;i&gt;Plague of Pythons&lt;/i&gt; was later revised and published under the title &lt;i&gt;Demon in the Skull&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/51804</dc:source>
@@ -50,9 +51,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Frederik_Pohl</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
+		<dc:contributor id="artist">Arthur Dove</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://www.wikiart.org/en/arthur-dove</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
@@ -65,7 +66,7 @@
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
+		<dc:contributor id="producer-1">Torran Kahleck</dc:contributor>
 		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
 		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
