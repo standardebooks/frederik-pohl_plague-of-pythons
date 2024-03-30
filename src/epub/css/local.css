@@ -4,3 +4,8 @@
 [epub|type~="z3998:acronym"]{
 	font-variant: all-small-caps;
 }
+
+#chapter-3 blockquote{
+	font-variant: small-caps;
+	text-align: center;
+}
