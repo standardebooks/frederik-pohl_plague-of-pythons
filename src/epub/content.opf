@@ -42,7 +42,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/51804</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v21n01_1962-10</dc:source>
 		<dc:source>https://archive.org/details/Galaxy_v21n02_1962.12</dc:source>
-		<meta property="se:word-count">40295</meta>
+		<meta property="se:word-count">39567</meta>
 		<meta property="se:reading-ease.flesch">74.79</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Frederik_Pohl</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frederik-pohl_plague-of-pythons</meta>
